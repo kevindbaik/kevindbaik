@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kevin!👋
 
 
 - 🔭 I’m currently working on Rishy

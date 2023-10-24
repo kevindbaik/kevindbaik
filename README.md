@@ -8,4 +8,4 @@
 - 💬 Ask me about how to CSS!
 - 📫 How to reach me: kevindbaik@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've picked up two new hobbies recently, pottery and building keyboards!
+- ⚡ Fun fact: I've Picked Up Two New Hobbies Recently.... Pottery and Building Keyboards!

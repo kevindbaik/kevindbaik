@@ -1,6 +1,17 @@
-### Hi there, I'm Kevin!👋
 
 
+### 🙋🏻‍♂️ About Me:
+I'm a full stack developer with a background in behavior psychology! Driven by a keen interest in solving problems and a fondness for technology, I knew software engineering was for me since my first line of code (*hint hint* it was <button>Hello!</button>). A daily reminder to myself is to get comfortable feeling uncomfortable, and so everyday I try to embrace new discomforts as an opportunity for growth. Outside of work you can probably find me exploring new food spots with my friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
+
+- 🌱 I’m currently learning more about data structures + algorithms and TypeScript.
+- 🔭 I’m currently working on Petsy.
+- 📫 How to reach me: kevindbaik@gmail.com
+
+
+### 🔥 My GitHub Stats: 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevindbaik&theme=gruvbox)](https://git.io/streak-stats)
+
+## 💻 My Current Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

@@ -1,15 +1,6 @@
 ### Hi there, I'm Kevin!👋
 
 
-- 🔭 I’m currently working on Rishy
-- 🌱 I’m currently learning TypeScript + Data Structures and Algorithms
-- 👯 I’m looking to collaborate on any open source projects!
-- 🤔 I’m looking for help with AWS EC2 Deployment
-- 💬 Ask me about how to CSS!
-- 📫 How to reach me: kevindbaik@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've picked up two new hobbies recently.... pottery and building keyboards!
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

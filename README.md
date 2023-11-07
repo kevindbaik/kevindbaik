@@ -1,7 +1,7 @@
 
 
 ### 🙋🏻‍♂️ About Me:
-I'm a full stack developer with a background in behavior psychology! Driven by a keen interest in solving problems and a fondness for technology, I knew software engineering was for me since my first line of code (*hint hint* it was ```<button>Hello!</button>```). A daily reminder to myself is to get comfortable feeling uncomfortable, and so everyday I try to embrace new discomforts as an opportunity for growth. Outside of work you can probably find me exploring new food spots with my friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
+I'm a full stack developer with a background in behavior psychology. Driven by a keen interest in solving problems and a fondness for technology, I knew software engineering was for me since my first line of code (*hint hint* it was ```<button>Hello!</button>```). A daily reminder to myself is to get comfortable feeling uncomfortable, and so everyday I try to embrace new discomforts as an opportunity for growth. Outside of work you can probably find me exploring new food spots with my friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
 
 - 🌱 I’m currently learning more about data structures + algorithms.
 - 🔭 I’m currently working on Petsy.

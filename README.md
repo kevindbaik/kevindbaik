@@ -1,7 +1,7 @@
 
 
 ### 🙋🏻‍♂️ About Me:
-I'm a full stack developer with a background in behavior psychology. Driven by a keen interest in solving problems and a fondness for technology, I knew software engineering was for me since my first line of code (*hint hint* it was ```<button>Hello!</button>```). I love learning about new technologies and challenging myself to tackle things outside of my comfort zone. A daily reminder to embrace these discomforts as an opportunity for growth. Outside of work you can probably find me exploring new food spots with friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
+I'm a full stack developer with a background in behavior psychology. Driven by a keen interest in solving problems and a fondness for technology, I knew software engineering was for me since my first line of code (*hint* it was ```<button>Hello!</button>```). I love learning about new technologies and challenging myself to tackle things outside of my comfort zone. A daily reminder to myself is to embrace these daily discomforts as an opportunity for self growth. Outside of work you can probably find me exploring new food spots with friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
 
 - 🌱 I’m currently improving on data structures + algorithms.
 - 📫 How to reach me: kevindbaik@gmail.com

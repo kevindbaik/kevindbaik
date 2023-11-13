@@ -3,7 +3,7 @@
 ### 🙋🏻‍♂️ About Me:
 I'm a full stack developer with a background in behavior psychology. Driven by a keen interest in solving problems and a fondness for technology, I knew software engineering was for me since my first line of code (*hint* it was ```<button>Hello!</button>```). 
 
-I never get bored of learning about new technologies and always challenge myself to tackle things outside of my comfort zone. A daily reminder is to embrace daily discomforts as an opportunity for self growth. 
+I never get bored of learning about new technologies and always challenge myself to tackle things outside of my comfort zone. A daily reminder is to embrace discomforts as an opportunity for self growth. 
 Outside of work you can probably find me exploring new food spots with friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
 
 - 🌱 I’m currently improving on data structures + algorithms.

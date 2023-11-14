@@ -6,7 +6,7 @@ I'm a full stack developer with a background in behavior psychology. Driven by a
 I never get bored of learning about new technologies and always challenge myself to tackle things outside of my comfort zone. A daily reminder is to embrace discomforts as an opportunity for self growth. 
 Outside of work you can probably find me exploring new food spots with friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
 
-- 🌱 I’m currently improving on data structures + algorithms.
+- 🌱 I’m currently improving my data structures + algorithms.
 - 📫 How to reach me: kevindbaik@gmail.com
 
 

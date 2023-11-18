@@ -1,12 +1,9 @@
 
 
 ### 🙋🏻‍♂️ About Me:
-I'm a full stack developer with a previous background in behavior psychology.  
+I'm a full stack developer with a previous background in behavior psychology. I love discovering new frameworks and libraries, and am always thinking about how I can use them in my upcoming projects.  
 
-I love learning about new technologies and am constantly challenging myself to tackle things outside of my comfort zone.  A daily reminder to embrace discomforts as an opportunity for self growth!
-Outside of work you can probably find me exploring new food spots with friends, at a concert for one of my favorite bands, or at the park with my poodle Teddy! 
-
-- 🌱 I’m currently improving my data structures + algorithms.
+- 🌱 I’m currently learning data structures + algorithms.
 - 📫 How to reach me: kevindbaik@gmail.com
 
 

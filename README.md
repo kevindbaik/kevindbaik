@@ -4,7 +4,7 @@
 I'm Kevin, a full stack developer with a background in behavior psychology. I love discovering new frameworks and libraries... and sometimes get a little too excited thinking about how I can use them in upcoming projects.  
 
 - 🌱 I’m currently learning data structures + algorithms.
-- 📫 Contact me: kevindbaik@gmail.com
+- 📫 Contact: kevindbaik@gmail.com
 
 
 ### 🔥 My GitHub Stats: 

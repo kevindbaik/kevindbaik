@@ -1,6 +1,6 @@
 
 
-### 🙋🏻‍♂️ About Me:
+### 🙋🏻‍♂️ Hello!
 I'm a full stack developer with a background in behavior psychology. I love discovering new frameworks and libraries... and sometimes get a little too exicted thinking about how I can use them in upcoming projects.  
 
 - 🌱 I’m currently learning data structures + algorithms.

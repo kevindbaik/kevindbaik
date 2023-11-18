@@ -1,7 +1,7 @@
 
 
 ### 🙋🏻‍♂️ Hello!
-I'm Kevin, a full stack developer with a background in behavior psychology. I love discovering new frameworks and libraries... and sometimes get a little too exicted thinking about how I can use them in upcoming projects.  
+I'm Kevin, a full stack developer with a background in behavior psychology. I love discovering new frameworks and libraries... and sometimes get a little too excited thinking about how I can use them in upcoming projects.  
 
 - 🌱 I’m currently learning data structures + algorithms.
 - 📫 How to reach me: kevindbaik@gmail.com

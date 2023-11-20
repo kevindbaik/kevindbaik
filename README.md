@@ -1,11 +1,7 @@
 
 
 ### 🙋🏻‍♂️ Hello I'm Kevin!
-I'm a full stack software engineer with a background in behavior psychology. 
-
-I love exploring new frameworks and learning about different approaches to software design. 
-
-My goal is to continue growing as a developer, and to be better than I was yesterday.
+I'm a full stack software engineer with a background in behavior psychology. I love exploring new frameworks and learning about different approaches to software design. My goal is to be a little more knowledgeable and experienced developer than I was yesterday.
 
 - 🌱 I’m currently learning data structures + algorithms.
 - 📫 Contact: kevindbaik@gmail.com

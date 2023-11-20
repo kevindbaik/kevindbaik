@@ -1,7 +1,7 @@
 
 
-### 🙋🏻‍♂️ Hello!
-I'm Kevin, a full stack developer with a background in behavior psychology. I love discovering new technologies and am constantly forcing myself to tackle things outside of my comfort zone everyday. The process of learning a new framework by building an application with it is one of my favorite parts about being a developer. 
+### 🙋🏻‍♂️ Hello I'm Kevin!
+I'm a full stack software engineer with a background in behavior psychology. I love exploring new frameworks and learning about different approaches to application development. 
 
 - 🌱 I’m currently learning data structures + algorithms.
 - 📫 Contact: kevindbaik@gmail.com

@@ -5,10 +5,6 @@ I'm a full stack software engineer with a background in behavior psychology. I l
 
 My goal as a developer is to be a little bit more knowledgeable and experienced than I was yesterday.
 
-- 🌱 I’m currently studying data structures + algorithms.
-- 📫 Contact: kevindbaik@gmail.com
-
-
 ### 🔥 My GitHub Stats: 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kevindbaik&theme=gruvbox)](https://git.io/streak-stats)
 
@@ -28,4 +24,9 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+
+- 🌱 I’m currently studying data structures + algorithms.
+- 📫 Contact: kevindbaik@gmail.com
+
 

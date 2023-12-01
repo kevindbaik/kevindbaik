@@ -27,7 +27,6 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 
 
 - 🌱 I’m currently studying data structures + algorithms.
-- 🔭 I'm working on a new project using Express and MongoDB.
 - 📫 Contact: kevindbaik@gmail.com
 
 

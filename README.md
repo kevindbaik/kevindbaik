@@ -5,9 +5,6 @@ I'm a full stack software engineer with a background in behavior psychology. I l
 
 My goal as a developer is to be a little bit more knowledgeable and experienced than I was yesterday.
 
-### 🔥 My GitHub Stats: 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevindbaik&theme=gruvbox)](https://git.io/streak-stats)
-
 ## 💻 My Current Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

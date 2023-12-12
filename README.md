@@ -21,7 +21,7 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
-- 🌱 I’m currently studying data structures + algorithms.
+- 🌱 I’m currently learning Java and studying data structures + algorithms.
 - 📫 Contact: kevindbaik@gmail.com
 
 

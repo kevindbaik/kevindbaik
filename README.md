@@ -13,6 +13,9 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - 🌱 I’m currently polishing projects and refining my data structures + algorithms.
-- 📫 Contact: kevindbaik@gmail.com
+
+- 😃 Let's connect! 
+    🔗 LinkedIn: https://www.linkedin.com/in/kevin-baik-311438193
+    📫 Email: kevindbaik@gmail.com
 
 

@@ -12,7 +12,6 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🌱 I’m currently polishing projects and refining my data structures + algorithms.
 
 😃 Let's connect!
 ```

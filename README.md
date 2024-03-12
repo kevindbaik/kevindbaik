@@ -12,4 +12,6 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a> 
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  kevindbaik@gmail.com
+<a href="https://kevinbaik.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a> 

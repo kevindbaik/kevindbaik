@@ -8,12 +8,10 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 
 
 ## Contact Me: 
-<div style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/kevin-baik-311438193/" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-baik-311438193/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    
+  </a>
+<br> 
   <a href="https://kevinbaik.com/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
    </a>
-</div>

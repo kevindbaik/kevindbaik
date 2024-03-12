@@ -7,9 +7,6 @@ My goal as a developer is to be a little bit more knowledgeable and experienced 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,java,py,nodejs,postgres)](https://skillicons.dev)
 
 
-😃 Let's connect!
-```
-    🔗 LinkedIn: https://www.linkedin.com/in/kevin-baik-311438193
-    📫 Email: kevindbaik@gmail.com
-```
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" onclick="https://www.linkedin.com/in/kevin-baik-311438193/"> 
+📫 Email: kevindbaik@gmail.com
 
